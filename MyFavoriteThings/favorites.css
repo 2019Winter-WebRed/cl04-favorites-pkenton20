@@ -1,0 +1,25 @@
+/*
+* Paige Kenton
+* 3/28/19
+* My Favorite Things
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+
+img {width: 340px; height: 300px;} /* Apllies to all images */
+
+#beach {width: 400px; height: 300px;} /* Apllies to image with id "beach" */
+#dog {width: 350px; height: 300px;} /* Apllies to image with id "dog" */
+#sushi {width: 340px; height: 270px} /* Apllies to image with id "sushi" */
+
+figure {float: right;} /* moves all figures to the right */
